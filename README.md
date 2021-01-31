@@ -1,1 +1,1 @@
-# LabView_calismalari
+# LabView_calismalari ders ile alakali dokumanlar
